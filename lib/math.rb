@@ -31,4 +31,5 @@ end
 def square_root(num)
   square = math.sqrt(num)
 puts square
+square
 end
